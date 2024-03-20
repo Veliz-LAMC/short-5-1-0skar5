@@ -37,13 +37,14 @@ p {
 
 }
 blockquote { 
-    
+    text-align: left;
     margin-top: 10px;
     margin-bottom: 10px;
 
 }
 
 ul { 
+    text-align: left;
     margin-top: 10px;
     margin-bottom: 10px;
 
