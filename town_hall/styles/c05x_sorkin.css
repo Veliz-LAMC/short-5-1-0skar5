@@ -48,6 +48,7 @@ ul {
     margin-bottom: 10px;
     margin-left: 0;
     padding-left: 0;
+    list-style-position: inside;
 }
 li {
     margin-top: 10px;
